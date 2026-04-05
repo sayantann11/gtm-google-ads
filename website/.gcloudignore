@@ -1,0 +1,16 @@
+.gcloudignore
+.git
+.gitignore
+
+# Python pycache:
+__pycache__/
+
+# Ignored by the build system
+/setup.cfg
+
+# Ignore tutorial file
+tutorial.md
+
+# Ignore all angular files except the build output
+ui/*
+!ui/dist
