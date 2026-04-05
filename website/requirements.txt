@@ -1,4 +1,4 @@
-blinker==1.6.2
+blinker>=1.9
 Flask==3.1.0
 gunicorn==22.0.0
 is_safe_url==1.0
